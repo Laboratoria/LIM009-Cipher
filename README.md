@@ -248,29 +248,30 @@ Diseño de experiencia de usuario (User Experience Design):
 
 Desarrollo Front-end:
 
-* [Valores](https://lms.laboratoria.la/cohorts/scl-2019-01-bc-core-commoncore-scl008/courses/javascript/01-basics/01-values-variables-and-types)
-* [Tipos](https://lms.laboratoria.la/cohorts/scl-2019-01-bc-core-commoncore-scl008/courses/javascript/01-basics/01-values-variables-and-types)
-* [Variables](https://lms.laboratoria.la/cohorts/scl-2019-01-bc-core-commoncore-scl008/courses/javascript/01-basics/02-variables)
-* [Control de flujo](https://lms.laboratoria.la/cohorts/scl-2019-01-bc-core-commoncore-scl008/courses/javascript/02-flow-control/00-opening)
-* [Tests unitarios](https://lms.laboratoria.la/cohorts/scl-2019-01-bc-core-commoncore-scl008/courses/javascript/11-testing/00-opening)
+* [Valores](https://lms.laboratoria.la/cohorts/lim-2019-02-bc-core-lim009/courses/javascript/01-basics/01-values-variables-and-types)
+* [Tipos](https://lms.laboratoria.la/cohorts/lim-2019-02-bc-core-lim009/courses/javascript/01-basics/01-values-variables-and-types)
+* [Variables](https://lms.laboratoria.la/cohorts/lim-2019-02-bc-core-lim009/courses/javascript/01-basics/02-variables)
+* [Control de flujo](https://lms.laboratoria.la/cohorts/lim-2019-02-bc-core-lim009/courses/javascript/02-flow-control/00-opening)
+* [Tests unitarios](https://lms.laboratoria.la/cohorts/lim-2019-02-bc-core-lim009/courses/javascript/11-testing/00-opening)
 * [Aprende más sobre `charCodeAt()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String/charCodeAt)
 * [Aprende más sobre `String.fromCharCode()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String/fromCharCode)
 * [Aprende más sobre `ASCII`](http://conceptodefinicion.de/ascii/)
 * [Documentación de NPM](https://docs.npmjs.com/)
 
 Herramientas:
+
 - [GitHub y GitHub Pages](https://guides.github.com/)
 - [Guía de Scrum](https://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-es.pdf): solamente para comenzar a entender cómo organizar tu trabajo.
 
 ## Checklist
+
 Esta sección está  para ayudarte a llevar un control de lo que vas completando.
 
 ### Parte Obligatoria
+
 * [ ] `README.md` incluye info sobre proceso y decisiones de diseño.
-* [ ] `README.md` explica claramente quiénes son los usuarios y su relación con
-  el producto.
-* [ ] `README.md` explica claramente cómo el producto soluciona los
-  problemas/necesidades de los usuarios.
+* [ ] `README.md` explica claramente quiénes son los usuarios y su relación con el producto.
+* [ ] `README.md` explica claramente cómo el producto soluciona los problemas/necesidades de los usuarios.
 * [ ] Usa VanillaJS.
 * [ ] No utiliza `this`.
 * [ ] Implementa `cipher.encode`.
@@ -287,6 +288,7 @@ Esta sección está  para ayudarte a llevar un control de lo que vas completando
 * [ ] Interfaz muestra el resultado del descifrado correctamente.
 
 ### Parte Opcional: "Hacker edition"
+
 * [ ] Cifra/descifra minúsculas
 * [ ] Cifra/descifra _otros_ caracteres (espacios, puntuación, `ñ`, `á`, ...)
 * [ ] Permite usar un `offset` negativo.
